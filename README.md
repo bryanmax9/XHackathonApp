@@ -18,7 +18,7 @@ Welcome to the GrokAI Twitter Companion App, a cutting-edge application that com
 
 ## Demo
 
-<img src='https://img.freepik.com/free-vector/abstract-grunge-style-coming-soon-with-black-splatter_1017-26690.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1713657600&semt=ais' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/xZpaTxA.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## Contributing
 
