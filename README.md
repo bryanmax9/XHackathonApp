@@ -16,6 +16,12 @@ Welcome to the GrokAI Twitter Companion App, a cutting-edge application that com
 - **BackEnd**: Serverless API architecture utilizing Flask to integrate Grok SDK, all deployed on Heroku for seamless scalability and performance.
 - **Grok SDK**: Powering the AI features, providing users with intelligent responses and analysis of Twitter data.
 
+## Deployed Serverless API for Grok Twitter X API
+
+- Joking about Facebook company 👀😂, the AI has no filters
+
+<img src='https://i.imgur.com/teJ3p3V.png' title='Video Demo' width='' alt='Video Demo' />
+
 ## Demo
 
 <img src='https://i.imgur.com/xZpaTxA.gif' title='Video Demo' width='' alt='Video Demo' />
