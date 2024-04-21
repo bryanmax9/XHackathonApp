@@ -1,4 +1,4 @@
-# GrokAI Twitter Companion App
+# X Journal - GrokAI Twitter Companion App
 
 Welcome to the GrokAI Twitter Companion App, a cutting-edge application that combines the power of Grok SDK with a robust FrontEnd designed in FlutterFlow and a BackEnd deployed on Heroku using Flask. Our application offers an immersive and personalized Twitter experience with a suite of features that enhance user engagement and provide powerful AI-driven insights.
 
