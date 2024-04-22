@@ -22,6 +22,14 @@ Welcome to the GrokAI Twitter Companion App, a cutting-edge application that com
 
 <img src='https://i.imgur.com/teJ3p3V.png' title='Video Demo' width='' alt='Video Demo' />
 
+- Twitter Aquisition by Musk Date, asking the Twitter AGI
+
+<img src='https://i.imgur.com/P2AZ30n.png' title='Video Demo' width='' alt='Video Demo' />
+
+- Grok opinion of Elon Musk aquiring Twitter and later convert it into what is known as X
+
+<img src='https://i.imgur.com/J1yhHyR.png' title='Video Demo' width='' alt='Video Demo' />
+
 ## Demo
 
 <img src='https://i.imgur.com/xZpaTxA.gif' title='Video Demo' width='' alt='Video Demo' />
