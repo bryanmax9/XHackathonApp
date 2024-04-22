@@ -32,7 +32,7 @@ Welcome to the GrokAI Twitter Companion App, a cutting-edge application that com
 
 ## Demo
 
-<img src='https://i.imgur.com/xZpaTxA.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/QwwEM4B.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## Contributing
 
